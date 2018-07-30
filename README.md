@@ -3,7 +3,7 @@
 
 ## start
 
-git clone https://github.com/yangfan0095/react-koa2-ssr
+git clone https://github.com/lyinshuai/react-koa2-ssr
 
 npm install 
 
@@ -26,7 +26,7 @@ npm run server
 
 ##  基于create-react-app 和 koa2 快速搭建react同构渲染项目总结 
 
-本项目github地址 [https://github.com/yangfan0095/react-koa2-ssr](https://github.com/yangfan0095/react-koa2-ssr)
+本项目github地址 [https://github.com/yangfan0095/react-koa2-ssr](https://github.com/lyinshuai/react-koa2-ssr)
 
 所用到技术栈 react16.x + react-router4.x + koa2.x
 
